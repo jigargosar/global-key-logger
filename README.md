@@ -33,6 +33,8 @@ node logger.js
 - This tool may require administrator privileges to capture global key events.
 - Use responsibly and only on systems you own or have permission to monitor.
 
+## Further Reading
+- [Tracking Global Keyboard Shortcuts in Node.js (Windows) - Blog Post](https://dev.to/jigargosar/tracking-global-keyboard-shortcuts-in-nodejs-windows-17ej)
+
 ## License
 MIT
-
